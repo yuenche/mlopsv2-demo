@@ -7,7 +7,7 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: ycmlopsv2
+  namespace: ycmlv2
   postfix: 0728
   location: westeurope
   environment: prod

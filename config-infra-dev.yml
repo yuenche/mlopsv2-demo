@@ -6,9 +6,9 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: ycmlopsv2
+  namespace: ycmlv2
   postfix: 0827
-  location: westus
+  location: westeurope
   environment: dev
   enable_aml_computecluster: true
 
