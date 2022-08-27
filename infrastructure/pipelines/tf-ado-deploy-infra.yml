@@ -18,7 +18,7 @@ pool:
 resources:
   repositories:
     - repository: mlops-templates 
-      name: Azure/mlops-templates 
+      name: yuenche/mlops-templates 
       endpoint: github-connection
       type: github
       ref: main #branch name
